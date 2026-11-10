@@ -38,9 +38,9 @@
 
 ### 📊 Немного статистики
 
-<!-- Компактная карточка статистики и streak. Не перегружено. -->
+<!-- ИСПРАВЛЕНО: заменён домен на github-stats-extended.vercel.app. Карточка должна работать. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackgur&show_icons=true&theme=react&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=blackgur&show_icons=true&theme=react&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackgur&theme=react&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
@@ -50,20 +50,12 @@
 
 <div align="center">
   <a href="https://github.com/blackgur/Soma.fm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackgur&repo=Soma.fm&theme=react&show_owner=true" alt="Soma.fm Repo Card" />
+    <!-- Эта карточка проекта также должна работать, так как использует тот же домен, что и карточка статистики. -->
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=blackgur&repo=Soma.fm&theme=react&show_owner=true" alt="Soma.fm Repo Card" />
   </a>
 </div>
 
 > **Soma.fm** — удобный инструмент для работы с плейлистами Soma.fm на Python. Если вы тоже любите фоновую музыку для работы, загляните в репозиторий.
-
----
-
-<div align="center">
-  
-  <!-- Небольшой, но приятный штрих: карточка с trophies (можно убрать, если кажется лишним) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=blackgur&theme=react&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="Trophies" />
-
-</div>
 
 ---
 
